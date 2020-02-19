@@ -1,0 +1,3 @@
+https://gallery.technet.microsoft.com/scriptcenter/eeff544a-f690-4f6b-a586-11eea6fc5eb8
+. .\Take-ScreenShot.ps1
+Take-ScreenShot -screen -file "C:\image.png" -imagetype png
